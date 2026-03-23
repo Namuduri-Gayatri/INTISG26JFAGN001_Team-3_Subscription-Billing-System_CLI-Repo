@@ -6,7 +6,7 @@ This project demonstrates how to manage users, plans, subscriptions, payments, a
 ---
 
 ## Project Structure
-
+'''
 src/
 ├── main/java/com/cognizant/
 │    ├── SubscriptionBillingSystem/App.java      # CLI entry point
@@ -21,7 +21,7 @@ src/
 │    └── util/DBUtil.java                       # Database connection utility
 │
 └── test/java/com/cognizant/dao/                # JUnit test classes
-
+'''
 ## Features
 
 1. User Management: Register and authenticate users.
